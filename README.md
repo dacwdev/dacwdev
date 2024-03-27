@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daccodes&label=Profile%20views&color=0e75b6&style=flat" alt="daccodes" /> </p>
 
-- 🔭 I’m currently working on **Frontend Technologies**
+- 🔭 I’m currently working on **Fastify**
 
-- 🌱 I’m currently learning **Oracle SQL, PL-SQL**
+- 🌱 I’m currently learning **Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
